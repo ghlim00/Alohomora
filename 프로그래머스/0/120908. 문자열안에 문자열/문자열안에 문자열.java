@@ -6,6 +6,5 @@ class Solution {
         } else {
             return 2;
         }
-        
     }
 }
