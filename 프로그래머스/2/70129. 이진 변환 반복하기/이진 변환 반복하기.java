@@ -27,7 +27,7 @@ class Solution {
                 }
             */
             
-            s = Integer.toBinaryString(newLen);  // 내장 함수 버전
+            s = Integer.toBinaryString(newLen);   // 내장 함수 버전
         }
         
         return new int[]{change, delete0};
