@@ -29,7 +29,7 @@ class Solution {
         }
     }
     
-    // // 소수 판별 메서드 - 시간초과
+    // // 소수 판별 메서드 - 시간초과 - 이게 문제가 아니었을 듯
     // private boolean isPrime(int num){
     //     for(int i=2; i*i<=num; i++){
     //         if(num % i == 0){
